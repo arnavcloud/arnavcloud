@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 3rd Year CSE (Cloud Computing) @ Chandigarh University  
+- 🎓 CSE (Cloud Computing) @ Chandigarh University  
 - ☁️ Passionate about Cloud, DevOps & Backend Systems  
 - 🛠️ Currently learning: AWS, Docker, System Design  
 - 🔬 Researching **Temporal Shifting & Carbon-Aware Computing**  
